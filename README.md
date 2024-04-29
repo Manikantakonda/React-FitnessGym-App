@@ -1,8 +1,8 @@
-# React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+React Admin Dashboard App
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+   - Collaborated with development teams to build a highly customizable admin dashboard application using ReactJS and Spring Boot.
+   - Implemented REST APIs to enhance platform functionality and performance.
+   - Contributed innovative ideas to the project and stayed updated on the latest trends in ReactJS development.
+   - Technologies Used: React.js, Material UI, HTML/TailwindCSS/, JavaScript.
