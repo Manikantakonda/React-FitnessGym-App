@@ -1,8 +1,5 @@
-
-
-React Admin Dashboard App
-
-   - Collaborated with development teams to build a highly customizable admin dashboard application using ReactJS and Spring Boot.
-   - Implemented REST APIs to enhance platform functionality and performance.
-   - Contributed innovative ideas to the project and stayed updated on the latest trends in ReactJS development.
-   - Technologies Used: React.js, Material UI, HTML/TailwindCSS/, JavaScript.
+React FitnessGym App**  
+   - Conceptualized and developed a responsive fitness gym application using ReactJS and TailwindCSS.
+   - Implemented user-friendly features for workout logging, progress tracking, and personalized goal setting to facilitate efficient fitness monitoring.
+   - Collaborated closely with stakeholders to gather requirements and iteratively refine the application to meet user needs.
+   - Technologies Used: React.js, TailwindCSS, HTML, CSS, JavaScript.
